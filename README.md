@@ -31,6 +31,9 @@ Las unidades de esfuerzo academico, se esta considerando una estudiante sin comp
 2. Descubre tu estilo de aprendizaje donde los valores son: 0= NO APLICA, 1=POCAS VECES y 2=SIEMPRE https://www.learning-styles-online.com/inventory/questions.php y guardar en "pentagrama" para el siguiente paso.
 3. Llenar el formulario de ficha de estudiante https://forms.gle/aJASCPxZGNv9W3cf7
 
+DIAGNOSTICO
+https://blockly-games.appspot.com
+
 ### PRACTICA ZERO
 1. Como trabajar con el lenguaje MARKDOWN  (MD)
 2. ¿Que es MarkDown? https://en.wikipedia.org/wiki/Markdown
