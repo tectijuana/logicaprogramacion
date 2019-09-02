@@ -1,7 +1,7 @@
 # LÓGICA DE PROGRAMACIÓN
 
 Buenas tardes su docente MC. René Solis R., actualmente encargado de Centro de Cómputo Unidad Otay.
-Por cuestiones de coordinación me ofrecí en apoyar el el departamento ya que requeria una necesidad de esta materia, a falta de docente.
+Por cuestiones de coordinación me ofrecí en apoyar el el departamento ya que requerian una necesidad de esta materia, a falta de docente.
 
 
 ### Plataformas de trabajo diario
