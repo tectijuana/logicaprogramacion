@@ -5,6 +5,9 @@
 Buenas tardes su docente MC. René Solis R., actualmente encargado de Centro de Cómputo Unidad Otay.
 Por cuestiones de coordinación me ofrecí en apoyar el el departamento ya que requerian una necesidad de esta materia, a falta de docente.
 
+# INTENCION DIDACTICA
+Actualmente el uso de computadoras ha tenido gran impacto en áreas diseño; entre otras cosas, permite modelar sistemas, y procesar información a velocidades elevadas. Sin importar el área de especialidad, se deben tener conocimientos básicos de programación para utilizar paquetes especializados o para desarrollar alguna aplicación para resolver problemas reales. Estos conocimientos también permiten comprender como la computadora lleva a cabo sus operaciones, y así poder proponer diferentes soluciones a dichos problemas.
+
 
 ### Plataformas de trabajo diario
 
