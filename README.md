@@ -28,8 +28,8 @@ Las unidades de esfuerzo academico, se esta considerando una estudiante sin comp
 
 ### Actividad de inicio del primer dia
 1. Presentación.
-2. Descubre tu estilo de aprendizaje https://www.learning-styles-online.com/inventory/questions.php y guardar en "pentagrama" para el siguiente paso.
-3. Llenar el formulario de ficha de estudiante https://goo.gl/forms/ZMfjBNACLYa782gE3
+2. Descubre tu estilo de aprendizaje donde los valores son: 0= NO APLICA, 1=POCAS VECES y 2=SIEMPRE https://www.learning-styles-online.com/inventory/questions.php y guardar en "pentagrama" para el siguiente paso.
+3. Llenar el formulario de ficha de estudiante https://forms.gle/aJASCPxZGNv9W3cf7
 
 ### PRACTICA ZERO
 1. Como trabajar con el lenguaje MARKDOWN  (MD)
@@ -37,9 +37,9 @@ Las unidades de esfuerzo academico, se esta considerando una estudiante sin comp
 3. Editor en linea de MD  https://stackedit.io/  y otro mas existen
 4. Tablas con MarkDown  https://www.tablesgenerator.com/markdown_tables
 5. Crear tu cuenta de GITHUB.com y la importancia de no olvidar la password, para lo bloquear la internet por la seguridad "anti-hackeo" que cuenta el portal. Esta será con su correo personal, procure usar la misma constraseña de siempre.
-6. Portal para trabajar agosto y septiembre, es http://sololearn.com (lenguaje C++ y python) platicar con Uds. para el orden de esto pues, 2 ojos para 54 estudiantes es imposible tenemos que hacer una estrategía de equipo para salir adelante en estos objetivos. Es la 2da. vez que se da este curso, pero con un grupo de 25 el semestre pasado.
+6. Portal para trabajar septiembre, es http://sololearn.com (lenguaje C++ y python) 
 
-### INTERPRETES EN LINEA
+### INTERPRETES EN LINEA (INTERNET)
 
 1.  https://www.python.org/shell/ - Sitio Oficial.
 2.  https://ideone.com/ -Mas usado para códigos pequeños
