@@ -1,3 +1,5 @@
+![](http://tectijuana.edu.mx/wp-content/uploads/2014/11/Heading-Ing-en-nanotecnologia-2048x672.png)
+
 # LÓGICA DE PROGRAMACIÓN
 
 Buenas tardes su docente MC. René Solis R., actualmente encargado de Centro de Cómputo Unidad Otay.
