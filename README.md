@@ -42,6 +42,9 @@ https://blockly-games.appspot.com
 # TEMARIO OFICIAL
 https://drive.google.com/file/d/1p-hPsXUEP_FWjq_QbpwnkS92YA7Q2YBs/view
 
+# LIBROS DE LA MATERIA
+https://books.goalkicker.com
+
 ### PRACTICA ZERO
 1. Como trabajar con el lenguaje MARKDOWN  (MD)
 2. ¿Que es MarkDown? https://en.wikipedia.org/wiki/Markdown
