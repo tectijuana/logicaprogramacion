@@ -36,6 +36,9 @@ Las unidades de esfuerzo academico, se esta considerando una estudiante sin comp
 DIAGNOSTICO
 https://blockly-games.appspot.com
 
+# TEMARIO OFICIAL
+https://drive.google.com/file/d/1p-hPsXUEP_FWjq_QbpwnkS92YA7Q2YBs/view
+
 ### PRACTICA ZERO
 1. Como trabajar con el lenguaje MARKDOWN  (MD)
 2. ¿Que es MarkDown? https://en.wikipedia.org/wiki/Markdown
