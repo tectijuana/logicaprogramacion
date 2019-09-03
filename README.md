@@ -66,4 +66,4 @@ Suerte y bienvenidos.
 
 NOTA para este Martes 2 de Septiembre, he sentido mal desde lunes infeccion estomacal, una disculpa pero ires al ISSTEE para tratamiento, cuidense de la comida con estos calores.
 
-![](Screen Shot 2019-09-03 at 1.14.46 PM.png)
+![](https://github.com/tectijuana/logicaprogramacion/blob/master/Screen%20Shot%202019-09-03%20at%201.14.46%20PM.png)
