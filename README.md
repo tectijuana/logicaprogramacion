@@ -62,3 +62,8 @@ https://books.goalkicker.com
 5.  http://rextester.com/l/python3_online_compiler - IDE simple y fácil de usar que muestra el tiempo de ejecución
 
 Suerte y bienvenidos.
+
+
+NOTA para este Martes 2 de Septiembre, he sentido mal desde lunes infeccion estomacal, una disculpa pero ires al ISSTEE para tratamiento, cuidense de la comida con estos calores.
+
+![](Screen Shot 2019-09-03 at 1.14.46 PM.png)
