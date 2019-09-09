@@ -1,5 +1,9 @@
 ![](http://tectijuana.edu.mx/wp-content/uploads/2014/11/Heading-Ing-en-nanotecnologia-2048x672.png)
 
+# URGENTE FORMULARIO PARA EL CORREO ELECTRONICO
+https://forms.gle/9FA9vhm4aAyY2Ria7
+
+
 # LÓGICA DE PROGRAMACIÓN
 
 Buenas tardes su docente MC. René Solis R., actualmente encargado de Centro de Cómputo Unidad Otay.
