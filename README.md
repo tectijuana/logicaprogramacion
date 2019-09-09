@@ -51,19 +51,10 @@ https://books.goalkicker.com
 3. Editor en linea de MD  https://stackedit.io/  y otro mas existen
 4. Tablas con MarkDown  https://www.tablesgenerator.com/markdown_tables
 5. Crear tu cuenta de GITHUB.com y la importancia de no olvidar la password, para lo bloquear la internet por la seguridad "anti-hackeo" que cuenta el portal. Esta será con su correo personal, procure usar la misma constraseña de siempre.
-6. Portal para trabajar septiembre, es http://sololearn.com (lenguaje C++ y python) 
+6. Portal para trabajar septiembre, es http://sololearn.com (lenguaje C++ por el momento y cerraremos semestre con Python 3) 
 
 ### INTERPRETES EN LINEA (INTERNET)
 
-1.  https://www.python.org/shell/ - Sitio Oficial.
-2.  https://ideone.com/ -Mas usado para códigos pequeños
-3.  https://repl.it/languages/python3 - Potente y simple compilador en línea, IDE e intérprete. Codifique, compile y ejecute el código en Python.
-4.  https://www.tutorialspoint.com/execute_python_online.php - Un shell de UNIX con todas las funciones y un explorador de proyectos fácil de usar.
-5.  http://rextester.com/l/python3_online_compiler - IDE simple y fácil de usar que muestra el tiempo de ejecución
 
 Suerte y bienvenidos.
 
-
-NOTA para este Martes 2 de Septiembre, he sentido mal desde lunes infección estomacal, una disculpa pero iré al ISSTEE para tratamiento, cuidense de la comida con estos calores. No habrá clases.
-
-![](https://github.com/tectijuana/logicaprogramacion/blob/master/Screen%20Shot%202019-09-03%20at%201.14.46%20PM.png)
