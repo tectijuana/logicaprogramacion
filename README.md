@@ -2,11 +2,12 @@
 
 
 # Semana 2
+![](https://i2.wp.com/torisconsulting.com/wp-content/uploads/2019/04/Google-Forms-logo1.png?fit=900%2C600&ssl=1)
 
 ## Pase de Lista y cuentas de GitHub (formulario para tambien para los faltantes de correo de ayer)
 https://forms.gle/9FA9vhm4aAyY2Ria7
 
-
+![](https://cms-assets.tutsplus.com/uploads/users/23/posts/28359/image/what-is-gmail-for-business-g-suite-email.jpg)
 
 ## Entrega de Correos electrónicos
 Pase por su folio con el docente y acceder a http://correo.tectijuana.edu.mx o su app de Gmail en su smarthphone
@@ -21,10 +22,11 @@ http://jetbrains.com/student hago notar que no es automatizado, y dan unas 25 li
 
 ![](https://cdn3.capacitateparaelempleo.org/media/icons/ocupaciones/7929.png)
 
-## Registrarse en el siguiente mòdulo que revisarà los dias miercoles 1 hora durante el dia para su aprovechamiento, recuerde que este portal nos darà al final un CERTIFICADO DE APROVECHAMIENTO (por haber terminado el mini-curso de 3 horas)
+## Registrarse en el siguiente mòdulo recuerde que este portal nos darà al final un CERTIFICADO DE APROVECHAMIENTO 
+### _Recuerde traer una diadema economica del Waldos de $20 pesos de bolsillo, para los breves audios de los cursos que revisará, evite audifonos de marca caras que puedan perder o dañarlos; es obligatorio estos audifonos_
 
 https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=11663&load=12362
 
-### PRIMER DIA, TEMARIO y PRACTICA ZERO
+### PRIMERA SEMANA: TEMARIO y PRACTICA ZERO
 
 [Resumen de la 1ra semana de trabajo, mas la practica Zero](Introduccion.md)
