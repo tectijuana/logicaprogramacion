@@ -5,4 +5,4 @@ https://forms.gle/9FA9vhm4aAyY2Ria7
 
 # PPRIMER DIA, TEMARIO y PRACTICA ZERO
 
-!
+[Resumen de la 1ra semana de trabajo, mas la practica Zero](Introduccion.md)
