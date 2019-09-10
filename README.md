@@ -2,15 +2,19 @@
 
 
 # Semana 2
+
+![](https://cms-assets.tutsplus.com/uploads/users/23/posts/28359/image/what-is-gmail-for-business-g-suite-email.jpg)
+
+## Entrega de Correos electrónicos, y agregar CORREO ALTERNATIVO para futuro reseteo (durará 5 años con su correo y tiende a olvidarse, asi Ud. podrá resetearlo)
+Pase por su folio con el docente y acceder a http://correo.tectijuana.edu.mx o su app de Gmail en su smarthphone
+
+
 ![](https://i2.wp.com/torisconsulting.com/wp-content/uploads/2019/04/Google-Forms-logo1.png?fit=900%2C600&ssl=1)
 
 ## Pase de Lista y cuentas de GitHub (formulario para tambien para los faltantes de correo de ayer)
 https://forms.gle/9FA9vhm4aAyY2Ria7
 
-![](https://cms-assets.tutsplus.com/uploads/users/23/posts/28359/image/what-is-gmail-for-business-g-suite-email.jpg)
 
-## Entrega de Correos electrónicos
-Pase por su folio con el docente y acceder a http://correo.tectijuana.edu.mx o su app de Gmail en su smarthphone
 
 ## De manera ordenada (SIN QUE BLOQUE GITHUB.COM por no recordar el password, no reintente solo RESETEAR) valla a su cuenta y active el cambio del correo electronico a @tectijuana.edu.mx)
 
