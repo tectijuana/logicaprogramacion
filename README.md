@@ -24,7 +24,7 @@ Gracias y a trabajar con su primer KANBAN
 Lista de pendientes por hacer en el curso.
 
 # Cierre del dia, AVANCES DE CERTIFICACION DE LÓGICA PROGRAMACION (30 min)
-
+https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=7929
 
 ### PRIMERA SEMANA: 1 y 2
 [Resumen de la 1ra semana de trabajo, mas la practica Zero](Introduccion.md)
