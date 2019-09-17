@@ -7,7 +7,7 @@
 
 Link para crear nuevo repositorio para trabajar con la opción de Proyectos con Kanban
 
-https://classroom.github.com/a/sklKm-Cw
+https://classroom.github.com/a/sklKm-Cw   FAVOR DE PONER SKIP (Se esta trabajando con los de Ing. Quimica)
 
 PRACTICA CON KANBAN
 
