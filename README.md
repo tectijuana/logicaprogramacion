@@ -9,7 +9,7 @@ Link para crear nuevo repositorio para trabajar con la opción de Proyectos con 
 
 https://classroom.github.com/a/sklKm-Cw   **(Se esta trabajando con los de Ing. Quimica, favor de poner SKIP)**
 
-PRACTICA CON KANBAN
+· PRACTICA CON KANBAN
 
 1.- Proyectos: NUEVO
 2.- Nombre del Proyecto:  Curso de LP
@@ -17,10 +17,11 @@ PRACTICA CON KANBAN
 3.- Templete: Automatico  
 
 
-NOTA: DE NO RECORDAR LA CONTRASEÑA DE GITHUB.COM FAVOR DE RESETEARLA EVITA QUE SE BLOQUE LA COMPUTADORA POR UN OLVIDO.
-RESET, RESET, RESET.
+_NOTA: DE NO RECORDAR LA CONTRASEÑA DE GITHUB.COM FAVOR DE RESETEARLA EVITA QUE SE BLOQUE LA COMPUTADORA POR UN OLVIDO.
+RESET, RESET, RESET._
 
-Gracias 
+Gracias y a trabajar con su primer KANBAN
+Lista de pendientes por hacer en el curso.
 
 
 ### PRIMERA SEMANA: 1 y 2
