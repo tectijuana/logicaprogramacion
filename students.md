@@ -12,7 +12,7 @@
 | 19212518 	| ANGEL                 	| ANAYA RIOS           	| angel.anaya193@tectijuana.edu.mx         	| ANAYARIOSANGEL      	|
 | 19212535 	| CUAUHTEMOC            	| HUACUJA VERDUGO      	| cuauhtemoc.huacuja193@tectijuana.edu.mx  	| CUAUHTEMOC          	|
 | 19212530 	| GABRIELA DENISSE      	| GUERRERO CORDOVA     	| gabriela.guerrero193@tectijuana.edu.mx   	| GABRIELADENISSE     	|
-| 19212542 	| AMEYALI               	| MARTINEZ MENDOZA     	| ameyali.martinez@tectijuana.edu.mx       	| AMEYALI-MM          	|
+| 19212542 	| AMEYALI               	| MARTINEZ MENDOZA     	| ameyali.martinez193@tectijuana.edu.mx       	| AMEYALI-MM          	|
 | 19212541 	| ALVARO ALEJANDRO      	| MARTINEZ CAMACHO     	| alvaro.martinez913@tectijuana.edu.mx     	| ALVARO.MARTINEZ913  	|
 | 19212563 	| FERNANDO              	| XOLOT RIVAS          	| fernando.xolot193@tectijuana.edu.mx      	| THEXOLOT            	|
 | 19212517 	| JULIO ALEJANDRO       	| ALVARADO ORTIZ       	| julio.alvarado193@tectijuana.edu.mx      	| POWEROFCORN         	|
