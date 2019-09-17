@@ -2,6 +2,7 @@
 
 # Semana 3
 
+[LISTA DE ESTUDIANTES](students.md)
 
 
 Link para crear nuevo repositorio para trabajar con la opción de Proyectos con Kanban
@@ -20,3 +21,10 @@ NOTA: DE NO RECORDAR LA CONTRASEÑA DE GITHUB.COM FAVOR DE RESETEARLA EVITA QUE 
 RESET, RESET, RESET.
 
 Gracias 
+
+
+### PRIMERA SEMANA: 1 y 2
+[Resumen de la 1ra semana de trabajo, mas la practica Zero](Introduccion.md)
+[2da semana de trabajo](semana2.md)
+
+
