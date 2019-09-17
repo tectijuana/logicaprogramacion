@@ -47,3 +47,4 @@
 | 19212523 	| GEMMA YOLANDA         	| CINCO HERNANDEZ      	| gemma.cinco193@tectijuana.edu.mx         	| GEMMA5              	|
 | 19212546 	| MIGUEL EDUARDO        	| MUNOZ RODRIGUEZ      	| miguel.munoz193@tectijuana.edu.mx        	| MURZCH              	|
 | 19212525 	| RAFAEL                	| CORONA RIZO          	| rafael.corona193@tectijuana.edu.mx       	| RAFAEL              	|
+| 19212528 	| RAUL                	| FERREYRA GARCIA          	| raul.ferreyra193@tectijuana.edu.mx       	| Ferreyra99              	|
