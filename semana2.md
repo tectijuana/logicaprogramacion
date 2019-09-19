@@ -1,5 +1,5 @@
-
-# Semana 2
+![](https://images.cooltext.com/5328357.png)
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
 ![](https://cms-assets.tutsplus.com/uploads/users/23/posts/28359/image/what-is-gmail-for-business-g-suite-email.jpg)
 
