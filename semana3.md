@@ -12,10 +12,10 @@ https://classroom.github.com/a/sklKm-Cw   **(Se esta trabajando con los de Ing. 
 
 · PRACTICA CON KANBAN
 
-1.- Proyectos: NUEVO
-2.- Nombre del Proyecto:  Curso de LP
-    Descripción:  Aprenderá Kanban para visualizar los pendientes a resolver.
-3.- Templete: Automatico  
+1- Proyectos: NUEVO
+2- Nombre del Proyecto:  Curso de LP (Descripción:  Aprenderá Kanban para visualizar los pendientes a resolver.)
+3- Templete: Automatico
+4-
 
 
 _NOTA: DE NO RECORDAR LA CONTRASEÑA DE GITHUB.COM FAVOR DE RESETEARLA EVITA QUE SE BLOQUE LA COMPUTADORA POR UN OLVIDO.
