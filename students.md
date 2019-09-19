@@ -1,3 +1,7 @@
+![](https://images.cooltext.com/5328358.png)
+<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+
+
 | CONTROL  	| NOMBRES               	| APPELLIDOS           	| EMAIL                                    	| NICKNAME            	|
 |----------	|-----------------------	|----------------------	|------------------------------------------	|---------------------	|
 | 19212547 	| ARAMI                 	| OCHOA MUJICA         	| ochoa.arami193@tectijuana.edu.mx         	| ARAMIOCHOA          	|
