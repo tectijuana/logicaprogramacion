@@ -29,7 +29,7 @@
 | 19212550 	| HERMAN JESUS          	| QUINONEZ PULIDO      	| herman.quinonez193@tectijuana.edu.mx     	| HERMANCONH          	|
 | 19212553 	| MEAGAN DE LOS ANGELES 	| SALAS MARTINEZ       	| meagan.salas193@tectijuana.edu.mx        	| MEAGAN              	|
 | 19212559 	| BALDEMAR              	| VALDEZ SIGALA        	| baldemar.valdez193@tectijuana.edu.mx     	| BALDEMAR3           	|
-| 19212551 	| JOSE ROBERTO          	| RIVERON CHAVEZ       	| jose.riveron@tectijuana.edu.mx           	| R1V3R0N             	|
+| 19212551 	| JOSE ROBERTO          	| RIVERON CHAVEZ       	| jose.riveron193@tectijuana.edu.mx   👀 :eyes:         	| R1V3R0N             	|
 | 19212532 	| YADIR MIKEL           	| GUTIERREZ VARGAS     	| yadir.gutierrez193@tectijuana.edu.mx     	| MIKAILGV            	|
 | 19212527 	| ALDO RENE             	| EVERS TINAJERO       	| aldo.evers193@tectijuana.edu.mx          	| EVERS329            	|
 | 19212780 	| KARLA PAOLA           	| MACIAS PAEZ          	| karla.macias193@tectijuana.edu.mx        	| KARLILLAPMPP        	|
