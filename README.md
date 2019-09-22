@@ -13,6 +13,9 @@ Otra alternativa si no localiza el correo es dar click a la **CAMPANITA** (lado 
 
 
 
+Asi es como descargo sus trabajos para evaluarlos.
+![](videos/GitHubClassroomRecolectarTrabajos.gif)
+
 
 
 
