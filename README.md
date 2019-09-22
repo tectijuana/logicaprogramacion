@@ -5,6 +5,13 @@
 
 
 
+## Favor de checar su correo, pues hace una semana se hizo un grupo en GitHub, **faltan 43 por aceptar la invitación**
+![](imagenes/invitaciones.png)
+
+
+
+
+
 
 | SEMANA |                        TEMA                        |    URL     |
 |:------:|:--------------------------------------------------:|:----------:|
