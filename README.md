@@ -13,11 +13,14 @@ Otra alternativa si no localiza el correo es dar click a la **CAMPANITA** (lado 
 
 
 
-Asi es como descargo sus trabajos para evaluarlos.
+# La revisión de trabajos por el docente, un vistazo a del procedimiento de recolección.
+
+## Hagase notar que el Hipervinculo de Classroom esta desabilitado ya ese momento el jóven tiene inasistencia.
+
 ![](videos/GitHubClassroomRecolectarTrabajos.gif)
 
 
-
+---
 
 | SEMANA |                        TEMA                        |    URL     |
 |:------:|:--------------------------------------------------:|:----------:|
