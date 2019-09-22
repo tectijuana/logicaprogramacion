@@ -15,7 +15,7 @@ Otra alternativa si no localiza el correo es dar click a la **CAMPANITA** (lado 
 
 # La revisión de trabajos por el docente, un vistazo a del procedimiento de recolección.
 
-## Hagase notar que el Hipervinculo de Classroom esta desabilitado ya ese momento el jóven tiene inasistencia.
+_Hagase notar que el Hipervinculo de Classroom esta desabilitado que fué el  momento el jóven tiene inasistencia, por no acceder el en bloque de la clase en horario normal._
 
 ![](videos/GitHubClassroomRecolectarTrabajos.gif)
 
