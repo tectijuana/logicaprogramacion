@@ -52,10 +52,10 @@ https://books.goalkicker.com
 3. Editor en linea de MD  https://stackedit.io/  y otro mas existen
 4. Tablas con MarkDown  https://www.tablesgenerator.com/markdown_tables
 5. Crear tu cuenta de GITHUB.com y la importancia de no olvidar la password, para lo bloquear la internet por la seguridad "anti-hackeo" que cuenta el portal. Esta será con su correo personal, procure usar la misma constraseña de siempre.
-6. Portal para trabajar septiembre, es http://sololearn.com (lenguaje C++ por el momento y cerraremos semestre con Python 3) 
+6. Portal para trabajar septiembre, es http://sololearn.com (lenguaje C++ por el momento y si el tiempo nos permite cerraremos semestre con Python 3) 
 
 ### INTERPRETES EN LINEA (INTERNET)
-
+Investigar, y tambien hay APPS disponibles de compiladores.
 
 Suerte y bienvenidos.
 
