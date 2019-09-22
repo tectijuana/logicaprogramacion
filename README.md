@@ -5,7 +5,7 @@
 
 
 
-## Favor de checar su correo, pues hace una semana se hizo un grupo en GitHub, **faltan 43 por aceptar la invitación**
+## Favor de checar su correo, pues hace una semana se hizo un grupo en GitHub, **faltan 46 por aceptar la invitación**
 ![](imagenes/invitaciones.png)
 
 
