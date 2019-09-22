@@ -9,7 +9,7 @@
 
 Otra alternativa si no localiza el correo es dar click a la **CAMPANITA** (lado derecho superior) donde estan los avisos.
 
-![](imagenes/invitaciones.png)
+![](imagenes/invitaciones2.png)
 
 
 
