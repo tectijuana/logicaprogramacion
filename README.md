@@ -5,7 +5,10 @@
 
 
 
-## Favor de checar su correo, pues hace una semana se hizo un grupo en GitHub, **faltan 46 por aceptar la invitación**
+## Favor de checar su correo, pues hace una semana se hizo un grupo en GitHub, **faltan 46 por aceptar la invitación.**
+
+Otra alternativa si no localiza el correo es dar click a la **CAMPANITA** (lado derecho superior) donde estan los avisos.
+
 ![](imagenes/invitaciones.png)
 
 
