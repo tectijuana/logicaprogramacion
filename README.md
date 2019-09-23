@@ -11,6 +11,10 @@ Otra alternativa si no localiza el correo es dar click a la **CAMPANITA** (lado 
 
 ![](imagenes/invitaciones2.png)
 
+Por URL seria este:
+
+http://github.com/orgs/tectijuana/invitation
+
 
 
 # La revisión de trabajos por el docente, un vistazo a del procedimiento de recolección.
