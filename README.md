@@ -13,7 +13,7 @@ Otra alternativa si no localiza el correo es dar click a la **CAMPANITA** (lado 
 
 Por URL seria este:
 
-http://github.com/orgs/tectijuana/invitation
+Invitations are sent via email and can be accepted at https://github.com/tectijuana
 
 
 
