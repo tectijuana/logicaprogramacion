@@ -22,6 +22,20 @@ _Hagase notar que el Hipervinculo de Classroom esta desabilitado que fué el  mo
 
 ---
 
+# EVALUACIÓN BLOQUE 1
+
+## Generar el certificado de "INTRODUCCIÓN A LA PROGRAMACIÓN" (de haber hecho otro es bueno para sus avances)
+
+![](https://cdn3.capacitateparaelempleo.org/media/icons/ocupaciones/11663.png)
+
+https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=11663
+
+Esfuerzo de 2 horas y se entrega el dia 24 de septiembre.
+
+
+
+---
+
 | SEMANA |                        TEMA                        |    URL     |
 |:------:|:--------------------------------------------------:|:----------:|
 | 1      | Temario e introducción                             | [semana1.md](semana1.md) |
